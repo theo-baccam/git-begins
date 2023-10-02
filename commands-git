@@ -3,5 +3,5 @@ git add
 git commit -m
 git push
 git pull
-vim branch
+git branch
 git checkout
