@@ -1,7 +1,7 @@
-git clone
-git add
-git commit -m
-git push
-git pull
-git branch
-git checkout
+git clone [lien] # clone un dépot distant localement sur la machine
+git add [fichier]
+git commit -m "description brève"
+git push # met à jour le dépôt distant
+git pull # met à jour le dépôt local
+git branch [nom de la branche] # Pour créer une branche
+git checkout [nom de la branche] # Pour basculer à une branche
